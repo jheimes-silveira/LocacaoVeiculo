@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/c7cc96fcad14c6fcdcd91c3318a402db8ad1a6e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62c5ec69439dc61af1549759058c5e20c42f5318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/bb50bd54a627fa11aa3c2c4cdcae458c4edebbf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33265519311e259cd80b6cb6b897c692b5073c07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/37f8454f5afbae028632a2d15f9a97e330b7455f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d9aebe40ab36968b8315a4efadba85b1daf2b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/00580a7e6d3a921ac5ed77b5c556b10efef71871/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dac752429c3289b6204380b11277fb901412ca91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/20d49f865a948f666b267450a12a1451cab53a8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6565fa1ec1a721d58329aeba41ebe88448afffb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/b55258875f8e7f8ecebdf0d1bfee14fbae3fa560/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_077a5ca55e5f6143c58e6e045f9303fe1a695f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/dev/java/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9932b1375b960e70373e9d8614fd16d211718d6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/e5ad2d57a148f85c8a76dadde2c394a68c013124/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f30d6d3ba2c4a64c0bd1393d8c9d72eab1f4633b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/b88dd02da0892a0802d20acaa08607d088da5bdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_163b0eee468b31e048e7fd78d5a8dd0a570c2db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_ae328ef3bc811e9cd485e3003ec13666dae37bd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/ae18b4a3d0019a9c07ed2010e3e33045937f4505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1073d16537b7ac6681b6121edf1ea30a5b35c63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="171d38840fbb743d59a3b666f5d2a1b84d228552">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ec0eb3e606cc8ef74a4e91d347e897a514b6d658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/387b6f10533e1376c5cb1743ff46c1cb9f806a51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c98c21ef075502e2b6e7e75edd65ea21f875d094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/4df43319ef1b0eea779065920d7f0b22ec4d475a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f61250e41cb56c3a677a1e8ff46d3553f0e434cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/fe347344bcc6ed9d9fa3c54b45c6c51d115f5fce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d98c32472b1e0d2bf9a40d4e093ae899b1333595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e02c7500214d7e67a7e962dedf6cecd762dd7bac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/dev/java/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_78277f2945baf0809093bb44a888d1ca56046c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/42c52f5d93db9e7cf29a51be76a81a0d21e46859/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba7c0e9bf2227618bd3c1d17874a653e3038794e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jheimess/.android/build-cache/03626545485eadfba4cfbcd9cc3c4ea67d41060e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/jheimess/git/mobile/LocacaoVeiculo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e20fd672d7bade952d22634545dec439311105d7/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Periodo da locação"
+                android:textStyle="bold" />
+            <LinearLayout
+
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <com.github.clans.fab.FloatingActionButton
+                        android:layout_weight="1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_calendar_clock_white"
+                        android:layout_gravity="left"
+                        fab:fab_size="mini"
+                        fab:fab_colorNormal="@color/colorPrimaryDark"
+                        android:id="@+id/btn_dta_inicio" />
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_gravity="center"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/fgt_profile_setting_btn_action"
+                        android:layout_toEndOf="@+id/fgt_profile_setting_btn_action">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Inicio"
+                            android:textStyle="bold" />
+                        <TextView
+                            android:id="@+id/tv_dta_inicio"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="11dp"
+                            android:text="23/03/2017" />
+
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <com.github.clans.fab.FloatingActionButton
+                        android:layout_weight="1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_calendar_clock_white"
+                        android:layout_gravity="left"
+                        fab:fab_size="mini"
+                        android:id="@+id/btn_dta_fim"
+                        fab:fab_colorNormal="@color/colorPrimaryDark" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_gravity="center"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/fgt_profile_setting_btn_action"
+                        android:layout_toEndOf="@+id/fgt_profile_setting_btn_action">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Termino"
+                            android:textStyle="bold" />
+                        <TextView
+                            android:id="@+id/tv_dta_fim"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="11dp"
+                            android:text="23/03/2017" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Intervalo"/>
+            <EditText
+                android:inputType="number"
+                android:id="@+id/et_intervalo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ListView
+                android:id="@+id/lista"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:transcriptMode="normal"
+                android:layout_gravity="center_horizontal|top" />
+
+        </LinearLayout>
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/btn_salvar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|bottom"
+        android:layout_margin="16dp"
+        android:src="@drawable/save"
+        fab:fab_colorNormal="@color/colorPrimary"
+        fab:fab_hideAnimation="@anim/fab_slide_in_from_right"
+        fab:fab_showAnimation="@anim/fab_scale_down"
+        fab:fab_size="mini" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/btn_remover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_trash"
+        fab:fab_hideAnimation="@anim/fab_slide_in_from_right"
+        fab:fab_showAnimation="@anim/fab_scale_down"
+        fab:fab_size="mini" />
+</FrameLayout>

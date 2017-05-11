@@ -1,0 +1,56 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text"
+            android:textSize="20dp"
+            android:layout_margin="13dp"
+            android:layout_gravity="center"
+            android:id="@+id/dialog_alert_custom_tv_title" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Text"
+            android:layout_margin="16dp"
+            android:layout_gravity="center"
+            android:id="@+id/dialog_alert_custom_tv_msg" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Não"
+                android:id="@+id/dialog_weight_btn_negative"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sim"
+                android:id="@+id/dialog_alert_custom_btn_positive"
+                android:layout_alignParentTop="true"
+                android:layout_toLeftOf="@+id/dialog_weight_btn_negative"
+                android:layout_toStartOf="@+id/dialog_weight_btn_negative" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</FrameLayout>
